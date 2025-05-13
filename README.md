@@ -45,7 +45,7 @@ Tenho muita vontade de aprender, facilidade para trabalhar em equipe, e estou se
 ## 📫 Contato
 
 Caso queira trocar uma ideia, dar um feedback ou colaborar em projetos, é só chamar!  
-[🔗(https://github.com/Micaelvc/Micaelvc/edit/main/README.md)]
+[🔗(https://github.com/Micaelvc)]
 
 ---
 
