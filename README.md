@@ -6,29 +6,34 @@
 ## 👨‍🎓 Sobre Mim
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento, sempre buscando evoluir e entender mais sobre esse mundo incrível da programação.  
-Durante a graduação, estudei e pratiquei com diversas linguagens e tecnologias, incluindo:
+Durante as aulas, estudei e pratiquei com diversas linguagens e tecnologias, incluindo:
 
-- ✅ HTML
-- ✅ CSS
-- ✅ Java
-- ✅ JavaScript
-- ✅ Python
+- ✅ HTML  
+- ✅ CSS  
+- ✅ Java  
+- ✅ JavaScript  
+- ✅ Python  
+- ✅ SQL  
 
 ## 🛠️ Tecnologias Conhecidas
 
 Aqui estão algumas das stacks com as quais tive contato até agora:
 
-| Linguagem / Tecnologia | Nível de Experiência |
-|------------------------|----------------------|
-| HTML                   | Intermediário        |
-| CSS                    | Intermediário        |
-| Java                   | Básico / Intermediário |
-| JavaScript             | Básico / Intermediário |
-| Python                 | Básico               |
+| Linguagem / Tecnologia | Nível de Experiência       |
+|------------------------|----------------------------|
+| HTML                   | Intermediário              |
+| CSS                    | Intermediário              |
+| Java                   | Básico / Intermediário     |
+| JavaScript             | Básico / Intermediário     |
+| Python                 | Básico                     |
+| SQL                    | Básico / Intermediário     |
 
-## 🚀 Objetivo
+## 🎯 Objetivo Profissional
 
-Este repositório é parte dos meus projetos de estudo. O objetivo é praticar, testar ideias e mostrar um pouco do que venho aprendendo ao longo do curso.
+Estou em busca da minha **primeira oportunidade profissional na área de tecnologia**, onde eu possa colocar em prática tudo o que venho aprendendo e continuar evoluindo como desenvolvedor.  
+Tenho muita vontade de aprender, facilidade para trabalhar em equipe, e estou sempre aberto a desafios — seja no front-end, back-end ou bancos de dados.
+
+**Se a sua empresa valoriza dedicação, curiosidade e vontade de crescer, estou pronto para somar!**
 
 ## 📚 Em andamento
 
@@ -39,6 +44,9 @@ Este repositório é parte dos meus projetos de estudo. O objetivo é praticar, 
 
 ## 📫 Contato
 
-Caso queira trocar uma ideia, dar um feedback ou colaborar em projetos, é só chamar!
+Caso queira trocar uma ideia, dar um feedback ou colaborar em projetos, é só chamar!  
+[🔗(https://github.com/Micaelvc/Micaelvc/edit/main/README.md)]
 
+---
 
+📌 *“Aprender a programar é como montar um quebra-cabeça: cada erro ensina algo novo.”*
