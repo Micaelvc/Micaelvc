@@ -1,35 +1,44 @@
-# Projeto Exemplo
+# Micael Victor
 
-> Um projeto simples criado como parte dos estudos em Análise e Desenvolvimento de Sistemas.
+> Repositório criado como parte da minha jornada de aprendizado em programação.  
+> Cursando **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no 3º ano — sempre quebrando a cabeça com código, mas tamo junto nessa! 💡💻
 
-## 🙋‍♂️ Sobre
+## 👨‍🎓 Sobre Mim
 
-Esse repositório foi feito por **Miguel Victor**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, no 3º ano. Sempre quebrando a cabeça com código — mas tamo junto nessa! 💻🔥
+Sou um estudante apaixonado por tecnologia e desenvolvimento, sempre buscando evoluir e entender mais sobre esse mundo incrível da programação.  
+Durante a graduação, estudei e pratiquei com diversas linguagens e tecnologias, incluindo:
 
-## 🚀 Começando
+- ✅ HTML
+- ✅ CSS
+- ✅ Java
+- ✅ JavaScript
+- ✅ Python
 
-Essas instruções vão te guiar para rodar o projeto localmente para desenvolvimento e testes.
+## 🛠️ Tecnologias Conhecidas
 
-### 📋 Pré-requisitos
+Aqui estão algumas das stacks com as quais tive contato até agora:
 
-Instale antes de começar (exemplo):
+| Linguagem / Tecnologia | Nível de Experiência |
+|------------------------|----------------------|
+| HTML                   | Intermediário        |
+| CSS                    | Intermediário        |
+| Java                   | Básico / Intermediário |
+| JavaScript             | Básico / Intermediário |
+| Python                 | Básico               |
 
-```bash
-Node.js >= 18
-npm >= 9
-## Hi there 👋
+## 🚀 Objetivo
 
-<!--
-**Micaelvc/Micaelvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório é parte dos meus projetos de estudo. O objetivo é praticar, testar ideias e mostrar um pouco do que venho aprendendo ao longo do curso.
 
-Here are some ideas to get you started:
+## 📚 Em andamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aprimorar lógica de programação
+- Praticar estrutura de dados
+- Criar projetos usando front-end e back-end
+- Aprender frameworks (como React ou Spring)
+
+## 📫 Contato
+
+Caso queira trocar uma ideia, dar um feedback ou colaborar em projetos, é só chamar!
+
+
